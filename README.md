@@ -1,1 +1,1 @@
-# Restaurant-App
+# Sushi Restaurant App
